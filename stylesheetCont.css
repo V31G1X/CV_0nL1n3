@@ -1,0 +1,22 @@
+*{
+    background-color: #D8D2C2;
+}
+
+h1{
+    text-align: center;
+    font-size: 24px;
+    color: #1E201E;
+}
+
+h5{
+    font-size: 9px;
+    text-align: center;
+}
+ul{
+    font-size: 14px;
+    color: #1E201E;
+}
+
+li{
+    color: black;
+}

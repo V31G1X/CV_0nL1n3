@@ -1,0 +1,33 @@
+*{
+    background-color: #D8D2C2;
+}
+
+h1{
+    font-size: 24px;
+    text-align: center;
+    color: #1E201E;
+}
+
+.work{
+    font-size: 22px;
+    color: #1E201E;
+    text-align: center;
+}
+
+.date{
+    font-size: 19px;
+    color: #1E201E;
+}
+
+.tasks{
+    font-size: 17px;
+    color: #1E201E;
+    font-style: italic;
+    text-align: center;
+}
+
+h5{
+    font-size: 9px;
+    text-align: center;
+    color:black;
+}

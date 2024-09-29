@@ -1,0 +1,50 @@
+*{
+    background-color: #D8D2C2;
+}
+
+h1{
+    font-size: 24px;
+    text-align: center;
+    color: #1E201E;
+}
+
+.school{
+    font-size: 22px;
+    color: #1E201E;
+    text-align: center;
+}
+
+.course{
+    font-size: 22px;
+    color: #1E201E;
+    text-align: center;
+}
+
+.date{
+    font-size: 20px;
+    color: #1E201E;
+}
+
+h5{
+    font-size: 9px;
+    text-align: center;
+    color: black;
+}
+
+.proj{
+    font-size: 17px;
+    color: #1E201E;
+    text-align: center;
+}
+
+.lingua{
+    font-size: 13px;
+    color: #1E201E;
+    font-style: italic;
+    text-align: left;
+}
+
+.USED{
+    font-size: 17px;
+    text-align: center;
+}

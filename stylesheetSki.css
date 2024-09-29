@@ -1,0 +1,26 @@
+*{
+    background-color: #D8D2C2;
+}
+
+h1{
+    text-align: center;
+    color: #1E201E;
+    font-size: 24px;
+}
+
+h2{
+    font-size: 20px;
+    color: #1E201E;
+}
+
+h5{
+    font-size: 9px;
+    text-align: center;
+    color: black;
+}
+
+.text{
+    font-size: 16px;
+    color: #1E201E;
+    text-align: center;
+}
